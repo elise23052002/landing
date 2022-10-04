@@ -1,0 +1,65 @@
+/* Write some CSS below */
+
+/* style.css */
+body {
+  font-family: Overline underline 
+  color: #023e8a;
+  font-size: 16px;
+  background-color: #eaf4ff ;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+h1{
+	color: #000000;
+	text-decoration:Overline underline;
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+}
+
+h2{
+	size: 6px;
+	color: #014f86;
+	font-size: 17px;
+}
+
+h3 {
+  font-family: Chivo;
+  color: #014f86;
+  font-family: 'Poppins', sans-serif;
+  background-color: #d6eaff;
+  text-align: center;
+}
+
+a {
+  color: #1A48E3;
+  font-weight: bold;
+  text-decoration: none;
+  transition: .3s;
+  text-align: center;
+}
+a:hover {
+  color: #CE2FAE;
+  text-align: center;
+}
+
+p: {
+	color: #000000
+}
+
+img{
+	width: 300px;
+	align-items: center;
+}
+
+.card {
+	text-align: center;
+}
+
+.banner {
+	background-image: url(images/fond.jpeg);
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0;
+	text-align: center;
+}
